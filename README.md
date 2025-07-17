@@ -19,7 +19,7 @@
 
 ### [🌸 Animgel (Frontend)](https://animgel.netlify.app/)
 
-*React, Apollo Client, Tailwind CSS, Netlify*
+*React, Apollo Client, Tailwind CSS, Redux Toolkit, Netlify*
 Responsive anime browser with genre and studio filtering. Built with modular components and connected to a GraphQL API.
 
 ### [🧠 Animgel API (Backend)](https://github.com/araksh10/Animgel-api-v2)
