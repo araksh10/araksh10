@@ -27,6 +27,11 @@ Responsive anime browser with genre and studio filtering. Built with modular com
 *Node.js, GraphQL, Apollo Server, MongoDB*
 GraphQL API powering the Animgel frontend. Supports queries and mutations for anime, genres, and studios.
 
+### [🌸 Portfolio ](https://abirfolio.vercel.app/)
+
+*React, Tailwind CSS, Framer Motion, Vercel*
+My portfolio, to showcase my work and skills.
+
 ## 📈 GitHub Stats
 
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=araksh10\&show_icons=true\&theme=radical)
