@@ -30,7 +30,7 @@ GraphQL API powering the Animgel frontend. Supports queries and mutations for an
 ### [🌸 Portfolio ](https://abirfolio.vercel.app/)
 
 *React, Tailwind CSS, Framer Motion, Vercel*
-My portfolio, to showcase my work and skills.
+My portfolio showcases my works and skills.
 
 ## 📈 GitHub Stats
 
